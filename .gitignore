@@ -82,6 +82,8 @@ local.properties
 
 # Ignore the .idea directory
 .idea/
+/.idea
+!.idea/dictionaries/radumarinescu.xml
 
 # Ignore the build directory and .gradle directory inside the buildSrc directory
 buildSrc/build/
